@@ -7,3 +7,8 @@ venv/
 # Ignore temporary files
 __pycache__/
 *.pyc
+
+# 忽略敏感文件
+.env
+image-translator/service-key.json
+
